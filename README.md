@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there!!!
+Hi, my name is **Gabriele Cutrona**, I'm an italian student, I was born February 9th, 2010 (CE, if anyone was wondering)
+
+Since I was little my passion has been Computer Science (Or Information Technology, or whatever you call it in english, i'm not even sure they're synonims)
+
+I want to become a developer, that's for sure, but I'm not 100% sure about *what*. Currently I'm studying web development on [The Odin Project](https://www.theodinproject.com/)
 
 <!--
 **Gabriele-Cutrona/Gabriele-Cutrona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
