@@ -11,13 +11,12 @@ Then I started using an old PC 🖥️. It had Windows 7, but I instantly upgrad
 
 My first distro was Linux Mint, then I used a variety of distros and learned a lot about operating systems.
 
-I currently have a laptop bought at the beginning of 2023. I dual boot Windows 11 (which rarely sees the light of day) and Arch Linux. My config is [here](https://github.com/Gabriele-Cutrona/.dotfiles).
+I currently have a laptop bought at the beginning of 2023. I dual boot Windows 11 (which almost never sees the light of day) and I Use Arch (BTW). My config is [here](https://github.com/Gabriele-Cutrona/.dotfiles).
 
-#### My Goals
-I want to become a developer, and currently, I'm studying web development on [The Odin Project](https://www.theodinproject.com). I'll study a variety of things in the next years of high school (as of now, May 12, 2024, I'm in the first year), even though two hours a week is really too little...
-
-#### GitHub Stats
-![Gabriele's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriele-Cutrona&show_icons=true&theme=catppuccin_mocha)
+#### My Goals and progress
+- 🏫 I'm an high schooler (second year as of October 27, 2024)
+- ⏰️ Two Hours of CS a week is too little, so I'll self teach (who do you think taught me English? exactly, ***me***)
+- 🌐 I'm learning Web Development on [The Odin Project](https://www.theodinproject.com)
 
 #### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele-Cutrona&layout=compact&theme=catppuccin_mocha)
