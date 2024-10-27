@@ -22,6 +22,6 @@ I currently have a laptop bought at the beginning of 2023. I dual boot Windows 1
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele-Cutrona&layout=compact&theme=catppuccin_mocha)
 
 #### Fun Facts
-- There are no fun facts about me
-- Cause I have no friends
-- The Year Of The Linux Desktop is near
+- 💥 There are no fun facts about me
+- 🙁 Cause I have no friends
+- 🐧 The Year Of The Linux Desktop is near
