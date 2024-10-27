@@ -7,7 +7,7 @@ Since I was little, my passion has been Computer Science (or Information Technol
 
 My first laptop (which was not mine) had Windows 7 on it, which still feels like a very long time ago. I used it from time to time until it broke when I was 10/11
 
-Then I started using an old PC 🖥️. It had Windows 7, but I instantly upgraded to Windows 10, and then, when it came out in 2021, Windows 11. But Windows was slow, so it was at that time that I learned about **Linux** (akchtually, it's *GNU/Linux*). 
+Then I started using an old PC. It had Windows 7, but I instantly upgraded to Windows 10, and then, when it came out in 2021, Windows 11. But Windows was slow, so it was at that time that I learned about **Linux** (akchtually, it's *GNU/Linux*). 
 
 My first distro was Linux Mint, then I used a variety of distros and learned a lot about operating systems.
 
