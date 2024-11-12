@@ -14,7 +14,7 @@ My first distro was Linux Mint, then I used a variety of distros and learned a l
 I currently have a laptop bought at the beginning of 2023. I dual boot Windows 11 (which almost never sees the light of day) and I Use Arch (BTW). My config is [here](https://github.com/Gabriele-Cutrona/.dotfiles).
 
 #### My Goals and progress
-- 🏫 I'm an high schooler (second year as of October 27, 2024)
+- 🏫 I'm a high schooler (second year as of October 27, 2024)
 - ⏰️ Two Hours of CS a week is too little, so I'll self teach (who do you think taught me English? exactly, ***me***)
 - 🌐 I'm learning Web Development on [The Odin Project](https://www.theodinproject.com)
 
