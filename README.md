@@ -19,7 +19,7 @@ I currently have a laptop bought at the beginning of 2023. I dual boot Windows 1
 - 🌐 I'm learning Web Development on [The Odin Project](https://www.theodinproject.com)
 
 #### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele-Cutrona&layout=compact&theme=catppuccin_mocha)
+![Top Languages](./mostUsedLanguages.svg)
 
 #### Fun Facts
 - 💥 There are no fun facts about me
