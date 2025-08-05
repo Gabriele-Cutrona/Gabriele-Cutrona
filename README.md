@@ -1,27 +1,42 @@
-### Hi there! 👋
+### Hello there! ^w^
+I'm **Gabriele Cutrona**, I'm an Italian 🇮🇹 student
 
-Hi, my name is **Gabriele Cutrona**. I'm an Italian 🇮🇹 student, born on February 9, 2010 (CE, if anyone was wondering)
+I've loved computers since when I was around eight.
+(literally before discovering them my life was miserable I didn't know what to do all day)
+First Windows 7 then 10 and also 11, but then...
+I first learned about linux in 2019/2020, first Linux Mint, I tried a variety of distros, in order to then settle with [Arch Linux](https://archlinux.org) (BTW) in 2021,
+when I was 11 years old, and I've been daily driving ever since (with some always rarer hops to W11, nowadays I literally don't use it anymore)
 
-#### About Me
-Since I was little, my passion has been Computer Science (or Information Technology, or whatever you call it in English; I'm not even sure they're synonyms). I started playing with computers when I was around eight
-
-My first laptop (which was not mine) had Windows 7 on it, which still feels like a very long time ago. I used it from time to time until it broke when I was 10/11
-
-Then I started using an old PC. It had Windows 7, but I instantly upgraded to Windows 10, and then, when it came out in 2021, Windows 11. But Windows was slow, so it was at that time that I learned about **Linux** (akchtually, it's *GNU/Linux*). 
-
-My first distro was Linux Mint, then I used a variety of distros and learned a lot about operating systems.
-
-I currently have a laptop bought at the beginning of 2023. I dual boot Windows 11 (which almost never sees the light of day) and I Use Arch (BTW). My config is [here](https://github.com/Gabriele-Cutrona/.dotfiles).
+I used KDE Plasma for a long time, but for more than a year now I've been daily driving [Hyprland](https://hypr.land), dotfiles [here](https://github.com/Gabriele-Cutrona/.dotfiles)
+#### About me
+I love anime, TV shows, programming and videogames. The end, that's 95% of what I do all day. And It's awesome.
 
 #### My Goals and progress
-- 🏫 I'm a high schooler (second year as of October 27, 2024)
-- ⏰️ Two Hours of CS a week is too little, so I'll self teach (who do you think taught me English? exactly, ***me***)
-- 🌐 I'm learning Web Development on [The Odin Project](https://www.theodinproject.com)
+- 🏫 I'm a high schooler (third year)
+- 🌐 I learned the basics of Web Development thanks to [The Odin Project](https://www.theodinproject.com)
+
+### Languages and Technologies
+<div>
+	<img width="100" src="https://rustacean.net/assets/cuddlyferris.svg" alt="Rust (unofficial) mascotte Logo (Ferris)" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="Bun Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Mascotte Logo (Tux)" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" /></div>
 
 #### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele-Cutrona&layout=compact&theme=catppuccin_mocha&0)
 
 #### Fun Facts
 - 💥 There are no fun facts about me
-- 🙁 Cause I have no friends
+- 🙁 Cause I have no friends (jk (maybe))
 - 🐧 The Year Of The Linux Desktop is near
