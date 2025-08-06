@@ -2,10 +2,12 @@
 I'm **Gabriele Cutrona**, I'm an Italian 🇮🇹 student
 
 I've loved computers since when I was around eight.
+
 (literally before discovering them my life was miserable I didn't know what to do all day)
+
 First Windows 7 then 10 and also 11, but then...
 I first learned about linux in 2019/2020, first Linux Mint, I tried a variety of distros, in order to then settle with [Arch Linux](https://archlinux.org) (BTW) in 2021,
-when I was 11 years old, and I've been daily driving ever since (with some always rarer hops to W11, nowadays I literally don't use it anymore)
+when I was 11 years old, and I've been daily driving ever since
 
 I used KDE Plasma for a long time, but for more than a year now I've been daily driving [Hyprland](https://hypr.land), dotfiles [here](https://github.com/Gabriele-Cutrona/.dotfiles)
 #### About me
@@ -31,7 +33,8 @@ I love anime, TV shows, programming and videogames. The end, that's 95% of what 
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot Logo" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte Logo" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua Logo" />
-	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" /></div>
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" />
+</div>
 
 #### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele-Cutrona&layout=compact&theme=catppuccin_mocha&0)
