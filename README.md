@@ -22,37 +22,40 @@ I plan to eventually start again in smaller, more consistent steps, luckly most 
 	- I'm currently going on (databases and **backend** in general) on my own, but *TOP* was a great guide at the beginning
  - 🎮 I'm also interested in **Game Development**, and I'm starting with the **Godot Engine**
 	- I might also eventually delve in more popular (absolutely **PROPRIETARY**, bleah) engines or lower level tools
- - 🖥️📱 I plan to learn desktop and mobile **App Development** (probably something like C++ or Kotlin) but I have not started anything yet
+ - 🖥️📱 I plan to learn desktop and mobile **App Development**
+ 	- probably something like C++ or Kotlin, but I have not started anything yet
 
-### Languages and Technologies
-#### Learning...
+### Technologies
+#### Languages
 <div>
 	<img width="100" src="https://rustacean.net/assets/cuddlyferris.svg" alt="Rust (unofficial) mascotte Logo (Ferris)" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" />
-	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot Logo" />
-</div>
-
-#### I regularly use...
-<div>
-	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML Logo" />
-	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS Logo" />
-	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS Logo" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS Logo" />
+ 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" />
+ 
+</div>
+
+#### Frameworks / Engines
+<div>
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot Logo" />
     <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Nodejs Logo" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="Bun Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS Logo" />
+	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React JS Logo" />
+</div>
+
+#### Tools
+<div>
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Mascotte Logo (Tux)" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker Logo" />
     <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git Logo" />
-</div>
-
-#### Sometimes I use...
-<div>
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim Logo" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma Logo" />
-	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua Logo" />
-	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" />
-    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React JS Logo" />
 </div>
 
 #### Top Languages
