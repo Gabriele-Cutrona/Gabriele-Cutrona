@@ -4,7 +4,7 @@ I'm **Gabriele Cutrona**, I'm an Italian 🇮🇹 student
 I've loved computers since when I was around eight.<br />
 (literally before discovering them my life was miserable I didn't know what to do all day)
 
-First 🪟 Windows 7 then 10 and also 11, but then...<br />
+First Windows 7/10/11 🪟 but then... the 🐧 penguin struck me<br />
 I first learned about linux in 2019/2020, first Linux Mint, I tried a variety of distros, in order to then settle with [Arch Linux](https://archlinux.org) (BTW) in 2021,
 when I was 11 years old, and I've been daily driving ever since. NixOS feels like the only distro that could, maybe, one day, convince me. But I don't know yet.
 
@@ -19,10 +19,10 @@ I plan to eventually start again in smaller, more consistent steps, luckly most 
 #### My Goals and progress
 - 🏫 I'm a high schooler (third year)
 - 🌐 I learned the basics of **Web Development** thanks to [The Odin Project](https://www.theodinproject.com)
-	- I'm currently going on (databases and **backend** in general) on my own, but it was a great guide at the beginning
+	- I'm currently going on (databases and **backend** in general) on my own, but *TOP* was a great guide at the beginning
  - 🎮 I'm also interested in **Game Development**, and I'm starting with the **Godot Engine**
 	- I might also eventually delve in more popular (absolutely **PROPRIETARY**, bleah) engines or lower level tools
- - 🖥️📱 I plan to learn desktop and mobile app development (probably something like C++ or Kotlin) but I have not started anything yet
+ - 🖥️📱 I plan to learn desktop and mobile **App Development** (probably something like C++ or Kotlin) but I have not started anything yet
 
 ### Languages and Technologies
 #### Learning...
