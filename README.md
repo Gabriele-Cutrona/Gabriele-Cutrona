@@ -55,4 +55,4 @@ I love anime, TV shows, programming and videogames. The end, that's 95% of what 
 - 💥 There are no fun facts about me
 - 🙁 Cause I have no friends (jk (maybe))
 - 🐧 The Year Of The Linux Desktop is near
-- 📃 This readme is not a template, 
+- 📃 This readme is not a template, but [people](https://github.com/MattRaider) [lack](https://github.com/AlessandroStraf) ideas
