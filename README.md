@@ -37,6 +37,7 @@ I love anime, TV shows, programming and videogames. The end, that's 95% of what 
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="Bun Logo" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Mascotte Logo (Tux)" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker Logo" />
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git Logo" />
 </div>
 
 #### Sometimes I use...
@@ -44,6 +45,7 @@ I love anime, TV shows, programming and videogames. The end, that's 95% of what 
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma Logo" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua Logo" />
 	<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" />
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React JS Logo" />
 </div>
 
 #### Top Languages
@@ -53,3 +55,4 @@ I love anime, TV shows, programming and videogames. The end, that's 95% of what 
 - 💥 There are no fun facts about me
 - 🙁 Cause I have no friends (jk (maybe))
 - 🐧 The Year Of The Linux Desktop is near
+- 📃 This readme is not a template, 
