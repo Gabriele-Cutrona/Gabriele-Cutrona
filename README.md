@@ -1,21 +1,30 @@
 ### Hello there! ^w^
 I'm **Gabriele Cutrona**, I'm an Italian 🇮🇹 student
 
-I've loved computers since when I was around eight.
-
+I've loved computers since when I was around eight.<br />
 (literally before discovering them my life was miserable I didn't know what to do all day)
 
-First Windows 7 then 10 and also 11, but then...
+First Windows 7 then 10 and also 11, but then...<br />
 I first learned about linux in 2019/2020, first Linux Mint, I tried a variety of distros, in order to then settle with [Arch Linux](https://archlinux.org) (BTW) in 2021,
 when I was 11 years old, and I've been daily driving ever since
 
 I used KDE Plasma for a long time, but for more than a year now I've been daily driving [Hyprland](https://hypr.land), dotfiles [here](https://github.com/Gabriele-Cutrona/.dotfiles)
+
+I have been interested in Nix and NixOS for a while, I've tried it superficially multiple times and *failed* miserably, maybe one day I'll actually succeed
+
 #### About me
-I love anime, TV shows, programming and videogames. The end, that's 95% of what I do all day. And It's awesome.
+I love anime, TV shows, programming and videogames. The end, that's 90% of what I do all day. And It's awesome.
+
+I have tried to learn japanese in middle school because... boredom. And I have managed to NOT rage quit... but I did quit a couple of times.
+I plan to eventually start again in smaller, more consistent steps, luckly most of the knowledge I gained from preivous attempts remains with me still.
 
 #### My Goals and progress
 - 🏫 I'm a high schooler (third year)
-- 🌐 I learned the basics of Web Development thanks to [The Odin Project](https://www.theodinproject.com)
+- 🌐 I learned the basics of **Web Development** thanks to [The Odin Project](https://www.theodinproject.com)
+	- I'm currently going on (databases and **backend** in general) on my own, but it was a great guide at the beginning
+ - 🎮 I'm also interested in **Game Development**, and I'm starting with the **Godot Engine**
+	- I might also eventually delve in more popular (absolutely **PROPRIETARY**, bleah) engines or lower level tools
+ - 🖥️📱 I plan to learn desktop and mobile app development (probably something like C++ or Kotlin) but I have not started yet
 
 ### Languages and Technologies
 #### Learning...
