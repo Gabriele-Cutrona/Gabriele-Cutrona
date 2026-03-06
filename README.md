@@ -58,9 +58,6 @@ I plan to eventually start again in smaller, more consistent steps, luckly most 
     <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL Logo" />
 </div>
 
-#### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele-Cutrona&layout=compact&theme=catppuccin_mocha&0)
-
 #### Fun Facts
 - 💥 There are no fun facts about me
 - 🙁 Cause I have no friends (jk (maybe))
