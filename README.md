@@ -17,7 +17,7 @@ I have tried to learn japanese in middle school because... boredom. And I have m
 I plan to eventually start again in smaller, more consistent steps, luckly most of the knowledge I gained from preivous attempts remains with me still.
 
 #### My Goals and progress
-- 🏫 I'm a high schooler (third year)
+- 🏫 I'm a high schooler (fourth year)
 - 🌐 I learned the basics of **Web Development** thanks to [The Odin Project](https://www.theodinproject.com)
 	- I'm currently going on (databases and **backend** in general) on my own, but *Odin* was a great guide at the beginning
  - 🎮 I'm also interested in **Game Development**, and I'm starting with the **Godot Engine**
