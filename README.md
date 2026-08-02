@@ -6,24 +6,27 @@ I've loved computers since when I was around eight.<br />
 
 First Windows 7/10/11 but then... the 🐧 penguin struck me<br />
 I first learned about linux in 2019/2020, first Linux Mint, I tried a variety of distros, in order to then settle with [Arch Linux](https://archlinux.org) (BTW) in 2021,
-when I was 11 years old, and I've been daily driving ever since. NixOS feels like the only distro that could, maybe, one day, convince me. But I don't know yet.
+when I was 11 years old, and I've been daily driving ever since (or a derivative). NixOS feels like the only distro that could, maybe, one day, convince me. But I don't know yet.
 
-I used KDE Plasma for a long time, but for more than a year now I've been daily driving [Hyprland](https://hypr.land), dotfiles [here](https://github.com/Gabriele-Cutrona/.dotfiles)
+I used KDE Plasma for a long time, and it is still my favorite DE, but often I use [Hyprland](https://hypr.land) or [Niri](https://github.com/niri-wm/niri), dotfiles [here](https://github.com/Gabriele-Cutrona/.dotfiles)
 
 #### About me
-I love anime, TV shows, programming and videogames. The end, that's 90% of what I do all day. And It's awesome.
+I love anime/manga, shows/movies, books, comics/toons, programming and videogames. The end, that's 90% of what I do all day. And It's awesome.
 
 I have tried to learn japanese in middle school because... boredom. And I have managed to NOT rage quit... but I did quit a couple of times.
 I plan to eventually start again in smaller, more consistent steps, luckly most of the knowledge I gained from preivous attempts remains with me still.
+
+I am fluent (I suppose) in 🇮🇹️ Italian and 🇺🇸️🇬🇧️ English (country flags are terrible at representing languages btw)
 
 #### My Goals and progress
 - 🏫 I'm a high schooler (fourth year)
 - 🌐 I learned the basics of **Web Development** thanks to [The Odin Project](https://www.theodinproject.com)
 	- I'm currently going on (databases and **backend** in general) on my own, but *Odin* was a great guide at the beginning
- - 🎮 I'm also interested in **Game Development**, and I'm starting with the **Godot Engine**
-	- I might also eventually delve in more popular (absolutely PROPRIETARY, bleah) engines or lower level tools
- - 🖥️📱 I plan to learn desktop and mobile **App Development**
- 	- probably something like C++ or Kotlin, but I have not started anything UI-wise yet
+- 🎮 I'm also interested in **Game Development**, and I'm starting with the **Godot Engine**
+- 🖥️📱 I plan to learn desktop and mobile **App Development**
+	- probably something like C++ or Kotlin, but I have not started anything UI-wise yet
+- 💻️ I also like simple CLI tools, as of right now I only made one which I use every day, called [rsmoji](https://github.com/Gabriele-Cutrona/rsmoji)
+
 ### Technologies
 
 #### Languages
