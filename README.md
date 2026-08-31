@@ -2,16 +2,20 @@
 
 I'm **Gabriele Cutrona**, an Italian 🇮🇹 nerdy student in love with computers and entertainment
 
-I've loved computers since when I was around eight.<br />
+I've loved computers since... forever. Since when I was a literal child<br>
 (literally before discovering them my life was miserable I didn't know what to do all day)
 
-I started with windows 7 on a laptop, various versions of Windows, but then (around 2019/2020) I switched to linux, I tried A LOT of distros and then I settled with [Arch Linux](https://archlinux.org) (BTW) in 2021. I'm always open to trying new things but for now nothing else has satisfied me
+I used windows (my first OS was 7), but for years (since 2019/2020) I've been daily driving Linux, and I can't switch back.
 
-I used KDE Plasma for a long time, and it is still my favorite DE, but years ago I switched to using wayland compositors, first [Hyprland](https://hypr.land), but more recently I'm using [Niri](https://github.com/niri-wm/niri).
+I tried A LOT of distros and then I settled with [Arch](https://archlinux.org) (BTW). 
+I'm always open to trying new things but for now nothing else has satisfied me
+
+I used KDE Plasma for a long time, and it is still my favorite DE, but years ago I switched to using wayland compositors,
+first [Hyprland](https://hypr.land), but more recently I'm using [Niri](https://github.com/niri-wm/niri).
 
 I maintain a repo of my dotfiles [here](https://github.com/Gabriele-Cutrona/.dotfiles) (niri, neovim, zsh, etc...)
 
-#### About me
+### About me
 
 I love anime/manga, shows/movies, books/comics, programming and videogames. The end, that's 90% of what I do all day. And It's awesome.
 
@@ -20,7 +24,7 @@ I started again recently in smaller, more consistent steps, luckily most of the 
 
 I am fluent (I suppose) in 🇮🇹️ Italian and 🇺🇸️🇬🇧️ English (country flags are terrible at representing languages btw)
 
-#### My Goals and progress
+### My Goals and progress
 
 - 🏫 I'm a high schooler (fourth year)
 - 🌐 I learned the basics of **Web Development** thanks to [The Odin Project](https://www.theodinproject.com)
