@@ -2,27 +2,23 @@
 
 I'm **Gabriele Cutrona**, an Italian 🇮🇹 nerdy student in love with computers and entertainment
 
-I've loved computers since... forever. Since when I was a literal child<br>
+I've loved computers since... forever. Since when I was a literal child  
 (literally before discovering them my life was miserable I didn't know what to do all day)
 
-I used windows (my first OS was 7), but for years (since 2019/2020) I've been daily driving Linux, and I can't switch back.
+My current main OS is [Arch](https://archlinux.org) (BTW), and it has been since 2020  
+I'm always open to trying new distros but for now nothing else has satisfied me
 
-I tried A LOT of distros and then I settled with [Arch](https://archlinux.org) (BTW). 
-I'm always open to trying new things but for now nothing else has satisfied me
-
-I used KDE Plasma for a long time, and it is still my favorite DE, but years ago I switched to using wayland compositors,
-first [Hyprland](https://hypr.land), but more recently I'm using [Niri](https://github.com/niri-wm/niri).
+My favorite DE is KDE Plasma, nowadays I mainly use wayland compositor, specifically [Niri](https://github.com/niri-wm/niri).
 
 I maintain a repo of my dotfiles [here](https://github.com/Gabriele-Cutrona/.dotfiles) (niri, neovim, zsh, etc...)
 
 ### About me
 
-I love anime/manga, shows/movies, books/comics, programming and videogames. The end, that's 90% of what I do all day. And It's awesome.
-
-I have tried to learn japanese in middle school because... boredom. And I have managed to NOT rage quit... but I did quit a couple of times.
-I started again recently in smaller, more consistent steps, luckily most of the knowledge I gained from previous attempts remains with me still.
-
-I am fluent (I suppose) in 🇮🇹️ Italian and 🇺🇸️🇬🇧️ English (country flags are terrible at representing languages btw)
+- I love ✨anime/📖manga, 📺shows/🎬movies, 📚books/💬comics, 🧑‍💻programming and 🎮videogames.
+  - The end, that's 90% of what I do all day. And It's awesome.
+- I love free software ❤️
+- I am fluent (I suppose) in 🇮🇹️ Italian and 🇺🇸️🇬🇧️ English (country flags are terrible at representing languages btw)
+- I'm currently trying to learn 🇯🇵 Japanese on my own (just for fun, nothing special)
 
 ### My Goals and progress
 
