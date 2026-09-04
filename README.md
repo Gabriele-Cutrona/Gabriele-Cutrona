@@ -1,6 +1,6 @@
 ### Hello there! ^w^
 
-I'm **Gabriele Cutrona**, an Italian 🇮🇹 nerdy student in love with computers and entertainment
+I'm **Gabriele Cutrona**, nerdy student in love with computers and entertainment
 
 I've loved computers since... forever. Since when I was a literal child  
 (literally before discovering them my life was miserable I didn't know what to do all day)
@@ -17,7 +17,8 @@ I maintain a repo of my dotfiles [here](https://github.com/Gabriele-Cutrona/.dot
 - I love ✨anime/📖manga, 📺shows/🎬movies, 📚books/💬comics, 🧑‍💻programming and 🎮videogames.
   - The end, that's 90% of what I do all day. And It's awesome.
 - I love free software ❤️
-- I am fluent (I suppose) in 🇮🇹️ Italian and 🇺🇸️🇬🇧️ English (country flags are terrible at representing languages btw)
+	- and everything in general that's free (as in freedom, but also as in price)
+- I am fluent (I suppose) in 🇮🇹️ Italian (native) and 🇺🇸️🇬🇧️ English (country flags are terrible at representing languages btw)
 - I'm currently trying to learn 🇯🇵 Japanese on my own (just for fun, nothing special)
 
 ### My Goals and progress
