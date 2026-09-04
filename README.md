@@ -1,6 +1,6 @@
 ### Hello there! ^w^
 
-I'm **Gabriele Cutrona**, nerdy student in love with computers and entertainment
+I'm **Gabriele Cutrona**, a nerdy student in love with computers and entertainment 🎆
 
 I've loved computers since... forever. Since when I was a literal child  
 (literally before discovering them my life was miserable I didn't know what to do all day)
@@ -8,15 +8,15 @@ I've loved computers since... forever. Since when I was a literal child
 My current main OS is [Arch](https://archlinux.org) (BTW), and it has been since 2020  
 I'm always open to trying new distros but for now nothing else has satisfied me
 
-My favorite DE is KDE Plasma, nowadays I mainly use wayland compositor, specifically [Niri](https://github.com/niri-wm/niri).
+My favorite DE is KDE Plasma, nowadays I mainly use wayland compositors, specifically [Niri](https://github.com/niri-wm/niri).
 
 I maintain a repo of my dotfiles [here](https://github.com/Gabriele-Cutrona/.dotfiles) (niri, neovim, zsh, etc...)
 
 ### About me
 
-- I love ✨anime/📖manga, 📺shows/🎬movies, 📚books/💬comics, 🧑‍💻programming and 🎮videogames.
+- I love ✨ anime and 📖 manga, 📺 shows and 🎬 movies, 📚 books and 💬 comics, 🧑‍💻 programming and 🎮 videogames.
   - The end, that's 90% of what I do all day. And It's awesome.
-- I love free software ❤️
+- I love free software 💜
 	- and everything in general that's free (as in freedom, but also as in price)
 - I am fluent (I suppose) in 🇮🇹️ Italian (native) and 🇺🇸️🇬🇧️ English (country flags are terrible at representing languages btw)
 - I'm currently trying to learn 🇯🇵 Japanese on my own (just for fun, nothing special)
